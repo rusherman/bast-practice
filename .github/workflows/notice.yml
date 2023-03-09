@@ -27,10 +27,10 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
-        run: curl https://bohrium.test.dp.tech/bazaar/update_notice/${{secrets.test.notice_key}}
+        run: curl https://bohrium.test.dp.tech/bazaar/update_notice/${{secrets.test.NOTICE_KEY}}
 
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
-          echo ${{secrets.test.notice_key}}
+          echo ${{secrets.NOTICE_KEY}}
           echo test, and deploy your project.
