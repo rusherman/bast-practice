@@ -24,17 +24,17 @@
     "items": [
       {
         "type": "doc",
-        "id": "molecular_simulation_basic/1",
+        "id": "molecular_simulation_basic/1.ipynb",
         "label": "1. 分子模拟简介"
       },
       {
         "type": "doc",
-        "id": "molecular_simulation_basic/2",
+        "id": "molecular_simulation_basic/2.ipynb",
         "label": "2. 分子模拟的基本原理"
       },
       {
         "type": "doc",
-        "id": "molecular_simulation_basic/3",
+        "id": "molecular_simulation_basic/3.ipynb",
         "label": "3. 分子模拟的基本步骤"
       }
     ]
@@ -51,17 +51,17 @@
         "items": [
           {
             "type": "doc",
-            "id": "molecular_simulation_advanced/sampler/1",
+            "id": "molecular_simulation_advanced/sampler/1.ipynb",
             "label": "1. 分子模拟简介"
           },
           {
             "type": "doc",
-            "id": "molecular_simulation_advanced/sampler/2",
+            "id": "molecular_simulation_advanced/sampler/2.ipynb",
             "label": "2. 分子模拟的基本原理"
           },
           {
             "type": "doc",
-            "id": "molecular_simulation_advanced/sampler/3",
+            "id": "molecular_simulation_advanced/sampler/3.ipynb",
             "label": "3. 分子模拟的基本步骤"
           }
         ]
@@ -73,24 +73,24 @@
         "items": [
           {
             "type": "doc",
-            "id": "molecular_simulation_advanced/free_energy_calculation/1",
+            "id": "molecular_simulation_advanced/free_energy_calculation/1.ipynb",
             "label": "1. 分子模拟简介"
           },
           {
             "type": "doc",
-            "id": "molecular_simulation_advanced/free_energy_calculation/2",
+            "id": "molecular_simulation_advanced/free_energy_calculation/2.ipynb",
             "label": "2. 分子模拟的基本原理"
           },
           {
             "type": "doc",
-            "id": "molecular_simulation_advanced/free_energy_calculation/3",
+            "id": "molecular_simulation_advanced/free_energy_calculation/3.ipynb",
             "label": "3. 分子模拟的基本步骤"
           }
         ]
       },
       {
         "type": "doc",
-        "id": "molecular_simulation_advanced/3",
+        "id": "molecular_simulation_advanced/3.ipynb",
         "label": "3. 分子模拟的基本步骤"
       }
     ]
